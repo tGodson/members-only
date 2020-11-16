@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Club House</title>
+    <%= csrf_meta_tags %>
+    <%= csp_meta_tag %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+<body class="d-flex flex-column">
+    <%= render 'layouts/navbar' %>
+    <div id="page-content">
+      <%= render 'layouts/message' %>
+      <%= yield %>
+    </div>
+  <%=render 'layouts/footer' %>  
+</body>
+</html>
+
+
