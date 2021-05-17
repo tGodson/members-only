@@ -63,6 +63,7 @@ _You can create a new post after you are logged using the form on the link below
 - Github: [tGodson](https://github.com/tGodson)
 - Twitter: [@tendongze95](https://twitter.com/tendongze95)
 - Linkedin: [linkedin](https://www.linkedin.com/in/tendongzegodson)
+- Email: [tendongzegodson@gmail.com]
 
 ## 🤝 Contributing
 
